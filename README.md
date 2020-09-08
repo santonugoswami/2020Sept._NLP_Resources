@@ -1,1 +1,1 @@
-# 2020Sept._NLP_Resources
+https://pakodas.substack.com/p/tricks-for-domain-adaptation
